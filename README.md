@@ -1,7 +1,10 @@
-<h1 align="center"> 🚀 Noor Mashal</h1>
-<h3 align="center">A Senior Undergraduate Computer Science Student and passionated fullstack developer</h3>
+<h1 align="center"> ☄️ Noor Mashal</h1>
+**'Code Architect (Software Developer | AI Learner | Visionary)'**
+Currently pursuing a Computer Science degree, I am honing my skills in AI, Software Engineering, Data Science, and Cybersecurity while working on exciting projects like TrainTrek, a train booking platform. I thrive on solving real-world problems with efficient and scalable code, focusing on both backend logic and user-centric design.
 
-- 🔭 I’m currently working on Train Booking Website **TrainTrek**
+Every project I build is meticulously crafted—from ideation and planning to development and optimization—ensuring clean, maintainable, and impactful solutions. As I continue my journey, I am eager to explore new technologies, refine my expertise, and contribute to the ever-evolving tech landscape.
+
+Let’s connect and innovate together! 🚀
 
 - 💬 Ask me about **react**
 
