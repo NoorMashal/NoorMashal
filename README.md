@@ -7,7 +7,7 @@
 Every project I build is meticulously crafted—from ideation and planning to development and optimization—ensuring clean, maintainable, and impactful solutions. As I continue my journey, I am eager to explore new technologies, refine my expertise, and contribute to the ever-evolving tech landscape.
 
 Let’s connect and innovate together! 🚀
-</p>   
+</p>  
 
 ![](https://i.imgur.com/P9VVMiS.gif)
 
