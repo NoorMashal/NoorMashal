@@ -1,5 +1,5 @@
-<h1> ☄️ Noor Mashal</h1>                 
-<strong><code>Code Architect (Software Developer | AI Enjoyer | Problem Solver)</code></strong>  
+<h1> ☄️ Noor Mashal</h1>
+<strong><code>Code Architect (Software Developer | AI Enjoyer | Problem Solver)</code></strong>
 <br>
 <br>
 <p>Graduated with a B.S. Computer Science degree from Rutgers University. I am currently honing my skills in AI, Software Engineering, Data Science, and Cybersecurity while working on exciting projects like Metrova, a train booking platform. I thrive on solving real-world problems with efficient and scalable code, focusing on both backend logic and user-centric design.
