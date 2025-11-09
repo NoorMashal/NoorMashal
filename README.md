@@ -1,5 +1,5 @@
 <h1> ☄️ Noor Mashal</h1> 
-<strong><code>Code Architect (Software Developer | AI Engineer| Problem Solver)</code></strong>
+<strong><code>Code Architect (Software Developer | AI Engineer | Problem Solver)</code></strong>
 <br>
 <br>
 <p>Graduated with a B.S. Computer Science degree from Rutgers University. I am currently honing my skills in AI, Software Engineering, Data Science, and Cybersecurity while working on exciting projects summonersAI that utilizes PostgresDB and the django framework to make a web application to look up and gain insight on players' profiles in an online game. I thrive on solving real-world problems with efficient and scalable code, focusing on both backend logic and user-centric design.
