@@ -1,4 +1,4 @@
-<h1> ☄️ Noor Mashal</h1> 
+<h1> ☄️ Noor Mashal</h1>  
 <strong><code>Code Architect (Software Developer | AI Engineer | Problem Solver)</code></strong>
 <br>
 <br>
