@@ -39,10 +39,4 @@ Let’s connect and innovate together! 🚀
 <a href="https://www.linkedin.com/in/noor-mashal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noor mashal" height="30" width="40" /></a>
 </p>
 
-#
-
-### 📊 Stats
-
-![Noor's GitHub stats](https://github-readme-stats.vercel.app/api?username=noormashal&show_icons=true&theme=gruvbox)
-
 
